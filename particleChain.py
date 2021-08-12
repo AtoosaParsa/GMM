@@ -1,5 +1,7 @@
 # A molecular dynamics simulator for a chain of disks with fixed boundary condition
 
+## I used the MATLAB MD simulator written by Professor Mark D. Shattuck ##
+
 import numpy as np 
 import random
 import matplotlib.pyplot as plt
